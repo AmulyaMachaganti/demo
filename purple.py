@@ -1,3 +1,4 @@
+pip install --upgrade streamlit
 import streamlit as st
 st.header('Deepthi')
 st.write('Deepthi')
