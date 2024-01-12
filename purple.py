@@ -1,4 +1,4 @@
 import streamlit as st
 st.header('Deepthi')
 st.write('Deepthi')
-st.video('https://youtu.be/PbPODDfgQMA?si=XvxKtETXbaa6p1-n',caption='Emone')
+st.video('https://youtu.be/u_2ariWW8K0?si=IayA8WMnXZltcSHC',caption='Tattukolede')
